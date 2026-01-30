@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Battler_Hero_F_2H_Pole
+  m_Controller: {fileID: 9100000, guid: d897227735dd89848a540c6907691ff3, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 3094330708855449807, guid: 408142c06e2d48c4db8065d1fbbcc8eb, type: 3}
+    m_OverrideClip: {fileID: 3094330708855449807, guid: 8427f593ea039e74fb73c8088e896c9a, type: 3}
+  - m_OriginalClip: {fileID: 3094330708855449807, guid: 6abe61edacb78c74489739f89ec126bc, type: 3}
+    m_OverrideClip: {fileID: 3094330708855449807, guid: 1ad5e2c82dc0082448aa849151560b5d, type: 3}
+  - m_OriginalClip: {fileID: 3094330708855449807, guid: 40786e67f3ceb094b9c00543f295cb5f, type: 3}
+    m_OverrideClip: {fileID: 3094330708855449807, guid: 40786e67f3ceb094b9c00543f295cb5f, type: 3}
+  - m_OriginalClip: {fileID: 3094330708855449807, guid: 40f0c0342e006424190c3c65989cc8ed, type: 3}
+    m_OverrideClip: {fileID: 3094330708855449807, guid: 40f0c0342e006424190c3c65989cc8ed, type: 3}
