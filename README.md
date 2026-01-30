@@ -1,3 +1,5 @@
+_Note: This repository is an example of programming and design ability only, and therefore has been stripped of assets and engine files. It does not contain a functioning project._
+
 # Overview
 
 A Work-In-Progress combat system prototype for a turn-based RPG, made in the Unity engine. The prototype is in a very early stage and should not be considered a playable demo. The primary exercise of this project was to design and implement a set of underlying systems which could support the easy definition of new combat abilities, and the complex resolution of such abilities, taking into account various factors of both the user and any targets. The prototype also has a networked foundation (P2P), allowing for multiple clients to connect and stay in sync while pieces move and resolve combat abilities.
